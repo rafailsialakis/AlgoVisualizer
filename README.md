@@ -5,7 +5,7 @@ The **AlgoVisualizer** is a program designed to manage cities and the connection
 ## Description
 
 The program includes:
-- A set of Greek cities and their geographical coordinates.
+- A set of cities and their geographical coordinates.
 - Connections between cities to represent road links.
 - Logic to visualize these cities and connections on a map or through applications.
 
