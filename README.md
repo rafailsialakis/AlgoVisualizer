@@ -40,3 +40,7 @@ Before running the project, ensure that you have the following technologies inst
 - City management
 - Connection handling
 - Geographic representation
+
+## To Do:
+- Add more Countries and more precise connections
+- Use of different heuristics
